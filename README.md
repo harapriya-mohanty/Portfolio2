@@ -42,7 +42,7 @@ This portfolio was built to:
 
 ## 🌐 Live Demo
 
-🔗 https://  
+🔗 [https://](https://precious-smakager-f4cfa9.netlify.app/)  
 
 ---
 
