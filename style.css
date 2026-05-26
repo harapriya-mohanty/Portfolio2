@@ -1,6 +1,8 @@
 
 html {
   scroll-behavior: smooth;
+  /* Prevent fixed navbar from overlapping anchored sections */
+  scroll-padding-top: 110px;
 }
 
 *{
